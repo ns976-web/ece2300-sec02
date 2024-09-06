@@ -51,6 +51,8 @@ module Top();
     dut_in1 = in1;
     dut_in2 = in2;
 
+
+
     #8;
 
     if ( t.n != 0 )
